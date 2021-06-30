@@ -102,3 +102,8 @@ Point类中 点的ID，位置，颜色，以及当前点的可见图像id
 以及poses
 <img src="https://img-blog.csdnimg.cn/20210630160208450.png"  />
 
+对于想对其进行了解的同学可以到Bilibili观看我在计算机视觉life上的分享[https://www.bilibili.com/video/BV1yX4y1A7qR?t=1](https://www.bilibili.com/video/BV1yX4y1A7qR?t=1)
+
+OpenMVS对SLAM位姿初始化部分已经合并到github:   [https://github.com/electech6/openMVS_comments](https://github.com/electech6/openMVS_comments)
+
+对于想要单独下载更改的文件的可以访问github:  [https://github.com/WangWen-Believer/ORB_SLAM2-to-OpenMVS](https://github.com/WangWen-Believer/ORB_SLAM2-to-OpenMVS)
