@@ -1,0 +1,1 @@
+当我们采用SLAM生成的sfm.txt数据对OpenMVS进行初始化时，我们要确保里面对应的图像均保存在OpenMVS工作空间下的image文件里，这样的话就跟我们正常操作OpenMVS没有什么区别，进将我们的 -i scene.mvs 改为 -i sfm.txt即可
